@@ -1,0 +1,6 @@
+OrderID,CustomerName,Product,Quantity,Price,OrderDate
+1001,Alice Johnson,Laptop,1,1200.0,2024-01-15
+1002,Bob Smith,Mouse,3,25.5,2024-01-16
+1003,Carol White,Keyboard,2,85.0,2024-01-17
+1004,David Brown,Monitor,1,350.0,2024-01-18
+1005,Eve Davis,USB Cable,5,12.99,2024-01-19
