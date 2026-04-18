@@ -3,7 +3,7 @@
 A comprehensive tutorial covering advanced Python concepts and techniques essential for data professionals. This course goes beyond the fundamentals to equip you with industry-standard practices in object-oriented programming, asynchronous operations, testing, and data handling.
 
 ## Full YouTube Tutorial: 
-- 
+- https://youtu.be/M-UtKxgtKag?si=JKqncawI92fa18aL
 
 ## 📚 Course Overview
 
